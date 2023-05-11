@@ -1,7 +1,6 @@
-
+![software developer](https://github.com/SujayF/SujayF/blob/main/Untitled%20(1).png)
 <h1 align="center">Hey!🕸️ It's me, Sujay Farkade</h1>
 <h3 align="center">your friendly neighborhood developer!</h3>
-<img align="right" src="https://thumbs.gfycat.com/WavyBowedFattaileddunnart-mobile.mp4" >
 
 - 🔭 I’m currently working on **Machine learning and WebD**
 
