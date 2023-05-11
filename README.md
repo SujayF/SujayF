@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**SujayF/SujayF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey!🕸️ It's me, Sujay Farkade</h1>
+<h3 align="center">your friendly neighborhood developer!</h3>
+<img align="right" src="https://thumbs.gfycat.com/WavyBowedFattaileddunnart-mobile.mp4" >
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Machine learning and WebD**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **sujaygf@gmail.com**
+
+- ⚡ Fun fact **It's Never too late ☮**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sujaygf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujaygf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sujay farkade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujay farkade" height="30" width="40" /></a>
+<a href="https://instagram.com/@sujay_f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sujay_f" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sujaytunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sujaytunes" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sujayf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujayf" height="30" width="40" /></a>
+</p>
+
+
