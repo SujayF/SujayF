@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sujaygf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujaygf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sujay farkade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujay farkade" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/sujay farkade](https://www.linkedin.com/in/sujayfarkade/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujay farkade" height="30" width="40" /></a>
 <a href="https://instagram.com/sujay_f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sujay_f" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sujaytunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sujaytunes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sujayf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujayf" height="30" width="40" /></a>
