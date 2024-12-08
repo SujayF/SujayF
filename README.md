@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sujaygf@gmail.com**
 
-- ⚡ Fun fact **It's Never too late ✌️**
+- ⚡ Fun fact: **It's Never too late ✌️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
