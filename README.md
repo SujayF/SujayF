@@ -14,5 +14,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sujayfarkade" target="blank"><img align="center" src="/linkedin.png" alt="sujay farkade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sujayfarkade" target="blank"><img align="center  src="/linkedin.png"  alt="sujay farkade" height="30" width="40" /></a>
 </p>
