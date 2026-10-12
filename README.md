@@ -1,4 +1,4 @@
-![software developer](/banner.png)
+![software developer](./banner.png)
 <h1 align="center">Hey!🕸️ It's me, Sujay Farkade</h1>
 <h3 align="center">your friendly neighborhood developer!</h3>
 <img align="right" height="200px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" >
@@ -14,5 +14,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sujayfarkade" target="blank"><img align="center  src="/linkedin.png"  alt="sujay farkade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sujayfarkade" target="blank"><img align="center" src="./linkedin.png" alt="Sujay Farkade on LinkedIn" height="30" width="40" /></a>
 </p>
