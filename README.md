@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently building and exploring **LLMs and Agentic AI**
 
-- 📫 How to reach me **sujaygf@gmail.com**
+- 📫 How to reach me: **sujaygf@gmail.com**
 
 - ⚡ Fun fact: **It's Never too late ✌️**
 
